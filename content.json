@@ -1,0 +1,23 @@
+{
+    "User": {
+        "name": "John",
+        "age": 30,
+        "email": "john@abc.com",
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001"
+        },
+        "phone": [
+            {
+                "type": "home",
+                "number": "212-555-1234"
+            },
+            {
+                "type": "fax",
+                "number": "646-555-4567"
+            }
+        ]
+    }
+}
